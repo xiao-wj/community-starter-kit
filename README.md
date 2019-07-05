@@ -2,7 +2,7 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+It is used to learning git in July 5th.
 
 FEATURES PLACEHOLDER
 
